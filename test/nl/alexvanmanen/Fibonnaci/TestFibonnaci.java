@@ -1,7 +1,12 @@
-package nl.alexvanmanen.Fibonnaci;
+package nl.alexvanmanen.fibonnaci;
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
+import nl.alexvanmanen.fibonnaci.FibLoop;
+import nl.alexvanmanen.fibonnaci.FibRecursionImproved;
+import nl.alexvanmanen.fibonnaci.FibRecursionNaive;
+import nl.alexvanmanen.fibonnaci.IFibonacci;
 
 public class TestFibonnaci {
 

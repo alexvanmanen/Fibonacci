@@ -1,4 +1,4 @@
-package nl.alexvanmanen.Fibonnaci;
+package nl.alexvanmanen.fibonnaci;
 
 public class FibLoop implements IFibonacci {
 	public long fib(int n) {
